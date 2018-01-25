@@ -1,0 +1,6 @@
+model_checkpoint_path: "saver-85900"
+all_model_checkpoint_paths: "saver-51540"
+all_model_checkpoint_paths: "saver-60130"
+all_model_checkpoint_paths: "saver-68720"
+all_model_checkpoint_paths: "saver-77310"
+all_model_checkpoint_paths: "saver-85900"
